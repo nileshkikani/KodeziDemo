@@ -12,7 +12,6 @@ import {
   Toolbar,
   Typography,
   IconButton,
-  Tooltip,
 } from "@mui/material";
 
 const Navigation = () => {
