@@ -4,7 +4,7 @@ import React from "react";
 const Footer = () => {
   return (
     <div>
-      <Box>footer</Box>
+      <Box>footers</Box>
     </div>
   );
 };
